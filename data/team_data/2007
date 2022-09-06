@@ -1,0 +1,31 @@
+Seed,Team,W,L,Pct,GB
+1.0,Dallas Mavericks,67,15,.817,-
+2.0,Phoenix Suns,61,21,.744,6.0
+3.0,San Antonio Spurs,58,24,.707,9.0
+4.0,Utah Jazz,51,31,.622,16.0
+5.0,Houston Rockets,52,30,.634,15.0
+6.0,Denver Nuggets,45,37,.549,22.0
+7.0,Los Angeles Lakers,42,40,.512,25.0
+8.0,Golden State Warriors,42,40,.512,25.0
+9.0,Los Angeles Clippers,40,42,.488,27.0
+10.0,New Orleans/Oklahoma City Hornets,39,43,.476,28.0
+11.0,Sacramento Kings,33,49,.402,34.0
+12.0,Portland Trail Blazers,32,50,.390,35.0
+13.0,Minnesota Timberwolves,32,50,.390,35.0
+14.0,Seattle Supersonics,31,51,.378,36.0
+15.0,Memphis Grizzlies,22,60,.268,45.0
+1.0,Detroit Pistons,53,29,.646,-
+2.0,Cleveland Cavaliers,50,32,.610,3.0
+3.0,Toronto Raptors,47,35,.573,6.0
+4.0,Miami Heat,44,38,.537,9.0
+5.0,Chicago Bulls,49,33,.598,4.0
+6.0,New Jersey Nets,41,41,.500,12.0
+7.0,Washington Wizards,41,41,.500,12.0
+8.0,Orlando Magic,40,42,.488,13.0
+9.0,Indiana Pacers,35,47,.427,18.0
+10.0,Philadelphia 76ers,35,47,.427,18.0
+11.0,Charlotte Bobcats,33,49,.402,20.0
+12.0,New York Knicks,33,49,.402,20.0
+13.0,Atlanta Hawks,30,52,.366,23.0
+14.0,Milwaukee Bucks,28,54,.341,25.0
+15.0,Boston Celtics,24,58,.293,29.0

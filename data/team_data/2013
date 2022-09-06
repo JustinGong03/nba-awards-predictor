@@ -1,0 +1,31 @@
+Seed,Team,W,L,Pct,GB
+1.0,Oklahoma City Thunder,60,22,.732,-
+2.0,San Antonio Spurs,58,24,.707,2.0
+3.0,Denver Nuggets,57,25,.695,3.0
+4.0,Los Angeles Clippers,56,26,.683,4.0
+5.0,Memphis Grizzlies,56,26,.683,4.0
+6.0,Golden State Warriors,47,35,.573,13.0
+7.0,Los Angeles Lakers,45,37,.549,15.0
+8.0,Houston Rockets,45,37,.549,15.0
+9.0,Utah Jazz,43,39,.524,17.0
+10.0,Dallas Mavericks,41,41,.500,19.0
+11.0,Portland Trail Blazers,33,49,.402,27.0
+12.0,Minnesota Timberwolves,31,51,.378,29.0
+13.0,Sacramento Kings,28,54,.341,32.0
+14.0,New Orleans Hornets,27,55,.329,33.0
+15.0,Phoenix Suns,25,57,.305,35.0
+1.0,Miami Heat,66,16,.805,-
+2.0,New York Knicks,54,28,.659,12.0
+3.0,Indiana Pacers,49,32,.605,16.5
+4.0,Brooklyn Nets,49,33,.598,17.0
+5.0,Chicago Bulls,45,37,.549,21.0
+6.0,Atlanta Hawks,44,38,.537,22.0
+7.0,Boston Celtics,41,40,.506,24.5
+8.0,Milwaukee Bucks,38,44,.463,28.0
+9.0,Philadelphia 76ers,34,48,.415,32.0
+10.0,Toronto Raptors,34,48,.415,32.0
+11.0,Detroit Pistons,29,53,.354,37.0
+12.0,Washington Wizards,29,53,.354,37.0
+13.0,Cleveland Cavaliers,24,58,.293,42.0
+14.0,Charlotte Bobcats,21,61,.256,45.0
+15.0,Orlando Magic,20,62,.244,46.0
