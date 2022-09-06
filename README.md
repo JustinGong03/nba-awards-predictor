@@ -93,7 +93,8 @@ The Rookie of the Year award could not be predicted because I couldn't project 2
 <img width="811" alt="Screen Shot 2022-09-06 at 2 50 44 AM" src="https://user-images.githubusercontent.com/92960950/188566986-d6a51116-6f1f-4a18-a032-6a70f2ee7964.png">
 
 
-Additionally, I ran a backtest with the MVP model to prediction each season's MVP since 2006 (Found in part 3). Below were the results:
+Additionally, I ran a backtest with the MVP model to prediction each season's MVP since 2006 (Found in part 3). 
+Below were the results:
 
 | Year | Predicted Player | Real Player |
 | ---- | ---------------- | ----------- |
@@ -101,4 +102,17 @@ Additionally, I ran a backtest with the MVP model to prediction each season's MV
 | 2007 | Steve Nash | Dirk Nowitzski |
 | 2008 | LeBron James | Kobe Bryant |
 | 2009 | LeBron James | LeBron James |
+| 2010 | LeBron James | LeBron James |
+| 2011 | Derrick Rose | Derrick Rose |
+| 2012 | LeBron James | LeBron James |
+| 2013 | LeBron James | LeBron James |
+| 2014 | Kevin Durant | Kevin Durant |
+| 2015 | Stephen Curry | Stephen Curry |
+| 2016 | Stephen Curry | Stephen Curry |
+| 2017 | James Harden | Russell Westbrook |
+| 2018 | James Harden | James Harden |
+| 2019 | Giannis Antetokounmpo | Giannis Antetokounmpo |
+| 2020 | Giannis Antetokounmpo | Giannis Antetokounmpo |
+| 2021 | Nikola Jokić | Nikola Jokić |
+| 2022 | Giannis Antetokounmpo| Nikola Jokić |
 
