@@ -7,15 +7,19 @@ This project takes player data from 2000-2022 in order to predict the NBA player
 
 **data** 
 - Contains all the raw webscraped data utilized in the project 
+
 **models**
 - Finalized models used during the project, trained with 2000-2022 data (All XGBoost regressors) 
+
 **notebooks**:
 - **Part 1**: Converting the raw data into structured datasets and creating new features
 - **Part 2**: Exploratory Data Analysis
 - **Part 3**: Data preprocessing, model training, and model tuning 
 - **Part 4**: Model deployment
+
 **Webscraping.py**
 - Code used to retrieve data from online databases
+
 **Project Summary**
 - More in-depth summary of process, analysis, and results of the project
 
