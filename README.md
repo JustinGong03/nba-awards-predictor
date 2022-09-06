@@ -120,21 +120,27 @@ I ran a backtest with the MVP model to predict each season's MVP since 2006 (Fou
 In the end, the XGBoost regressor model did a decent job at predicting the awards. However, there were many drawbacks:
 
 1. Voter Fatigue
+
 I had to adjust predictions to account for **voter fatigue** (Concept that votes for players dramatically decrease if they win the award consecutively). For example, my original backtest made *LeBron James* a 6x consecutive MVP. However, I reduced the player voting share by .2 and redistributed it if they won back-to-back, resulting in correctly predicting *Derrick Rose* as the MVP in 2011. 
 
 2. Media Influence 
+
 The media and fan perception of players has a huge influence on award shares. For example, if a player is on a mainstream team and receives praise from the media, they're more likely to win the award because of the attention they receive. However, these models purely looks at the numebrs. For example, Anthony Edwards had better player statistics for ROY in 2021, but LaMelo Ball won it due to his prescense in the media. 
 
 3. Injuries 
+
 Injuries are nearly impossible to predict as any player can get in the NBA season. This heavily impacts awards. For example, Nikola Jokic is predicted to be 2nd in MVP votes in 2023, but this doesn't account for Jamal Murray and Michael Porter Jr. returning for the 2023 season. This would reduce the significance that Jokic would individualy have on his team. 
 
 4. Difficulty in Predicting Shares
+
 The model inherently predicts the voting share relative to *all* the training data. For example, in a given year if every player performs at a high level, then they will receive high voting shares because they performed well compared to players in *previous* seasons. However, in real life, only the *best* player would receive a high voting share because it's scaled relative to the season. Thus, this is a large reason why the shares seen above are substantially inaccurate for many players. 
 
 5. SMOY Qualification
+
 SMOY candidates are players who started less than *half* the games they played. This is difficult to predict for the 2023 NBA season. This process left out major SMOY candidates including Tyler Herro, Jordan Poole, and Terrance Mann as I projected them to start more games next season.
 
 6. Correlation, not Causation
+
 A notorious problem is regression analysis, there are many features that were deemed important because they were correlated with the target variable, but not the cause for it. For example, the defensive player of the year favors *rebounds* and being a *center*/*power forward*. This is because historically big men have won the award, causing their rebound count to be higher. However, rebounds is not relevant to the award. This resulted in the DPOY in 2022, Marcus Smart, to not be predicted because he was the first *guard* to win the award since Gary Payton in 1986 (Not in the model)
 
 What's Next?
