@@ -92,9 +92,8 @@ The Rookie of the Year award could not be predicted because I couldn't project 2
 
 <img width="811" alt="Screen Shot 2022-09-06 at 2 50 44 AM" src="https://user-images.githubusercontent.com/92960950/188566986-d6a51116-6f1f-4a18-a032-6a70f2ee7964.png">
 
-
-Additionally, I ran a backtest with the MVP model to prediction each season's MVP since 2006 (Found in part 3). 
-Below were the results:
+## Model Performance for MVP
+I ran a backtest with the MVP model to predict each season's MVP since 2006 (Found in part 3). Below were the results:
 
 | Year | Predicted Player | Real Player |
 | ---- | ---------------- | ----------- |
